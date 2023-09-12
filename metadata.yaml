@@ -1,0 +1,36 @@
+_repo: Deadline_71586
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: https://en.wikipedia.org/wiki/John_Schoenherr
+creator:
+  author:
+    agent_name: Kleine, Walter L.
+    gutenberg_agent_id: '56297'
+    url: http://www.gutenberg.org/2009/agents/56297
+description: ''
+gutenberg_issued: '2023-09-07'
+identifiers:
+  gutenberg: '71586'
+language: en
+pgterms:marc905: 20230820084338kleine
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Deadline
+url: http://www.gutenberg.org/ebooks/71586
